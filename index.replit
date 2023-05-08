@@ -171,7 +171,7 @@ XeonLft = await getBuffer(ppuser)
                 xeonbody = `⋆ اهلا بيك يا..
  @${xeonName.split("@")[0]},
 ꔹ━━━━━ꔹ
-⋆ نورت جروب..
+⋆ نورت يا من خضعت الشمس له بسبب نوره الساطع مرحبا بك في عائلتنا الكريمة❤️
 ${metadata.subject}.
 ꔹ━━━━━ꔹ
 ⋆ وهذا هو وصف الجروب..
@@ -179,7 +179,7 @@ ${metadata.desc}
 ꔹ━━━━━ꔹ
 ⋆ من فضلك التزم بالقوانين..`
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'نورت الجروب يحب♥✨'}, type: 1}
+{buttonId: `wkwwk`, buttonText: {displayText: 'نورت يا اغلي الناس❤️🌚'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
@@ -212,12 +212,12 @@ ElgazarBot.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     xeonbody = `⋆ مع السلامه 👋
 , @${xeonName.split("@")[0]}, 
 ꔹ━━━━━ꔹ
-⋆ حد يبقي في جروب قمر زي جروب
+⋆𝐁𝐘𝐄 𝐁𝐘𝐄 𝐃𝐎𝐍𝐓 𝐁𝐀𝐂𝐊🖤🥀.
 ${metadata.subject}.
 ꔹ━━━━━ꔹ
-⋆ ويغادر يحمار يلا غور فداهيه..🖤😂`
+⋆ 𝐂𝐋𝐎𝐒𝐄 𝐓𝐇𝐄 𝐃𝐎𝐎𝐑🖤🥀.`
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'مع السلامه تخرج يجي غيرك😉✨'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'آقفل آلبآب وراك يسطا☺️❤️'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),

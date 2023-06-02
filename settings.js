@@ -24,11 +24,11 @@ global.location = "Africa, Egypt, Cairo" //ur location
 //bot bomdy 
 global.ownernomer = "01555279812" //ur number
 global.premium = ['201555279812'] //ur premium number
-global.botname = '𝐔𝐂𝐇𝐈𝐇𝐀 𝐁𝐎𝐓🌿' //ur bot name
+global.botname = '𝐔𝐂𝐇𝐈𝐇𝐀 𝐁𝐎𝐓⚔🎴' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GykSx0DWlub27Jf5VWlHsE" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/GykSx0DWlub27Jf5VWlHsE" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
-global.themeemoji = "🌙" //ur theme emoji
+global.themeemoji = "🔴" //ur theme emoji
 global.packname = "𝐔𝐂𝐇𝐈𝐇𝐀 𝐁𝐎𝐓" //ur sticker watermark packname
 global.author = "𝐔.𝐊.𝐃 𝐁𝐎𝐓" //ur sticker watermark author
 global.wm = "𝐔𝐂𝐇𝐈𝐇𝐀 𝐁𝐎𝐓" //ur watermark
@@ -40,16 +40,16 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'تـمـت العـمـلية بنجاح',
-    admin: '『 يجب ان تكون ادمن🎩 』',
-    botAdmin: '『 اعطيني اشراف اولا⚜️ 』',
-    premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
-    owner: '『 لا يمكنك استعمال هذا الامر⚜️ 』',
-    group: '『 استعمل الامر في الجروبات⚜️ 』',
-    private: '『 استعمل الامر في الخاص⚜️ 』',
+    success: 'تـمـت العـمـلية بنجاح💬',
+    admin: '『 يجب ان تكون ادمن💬 』',
+    botAdmin: '『 اعطيني اشراف اولا💬 』',
+    premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار💬 』',
+    owner: '『 لا يمكنك استعمال هذا الامر💬 』',
+    group: '『 استعمل الامر في الجروبات💬 』',
+    private: '『 استعمل الامر في الخاص💬 』',
     bot: '『 الميزه دي للبوت بس! 』',
-    wait: '『 يرجي الانتظار🌙..... 』',
-    linkm: '『 فين الرابط? 』',
+    wait: '『 يرجي الانتظار🧭..... 』',
+    linkm: '『 فين الرابط?💬 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
 }

@@ -1495,7 +1495,7 @@ break
                 m.reply(mess.success)
                 }
                 break
-            case 'tagall': case 'منشن': case 'ازعاج': case 'تاج': {
+            case 'tagall': case 'منشن': case 'اجتماع': case 'تاج': {
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
@@ -2246,7 +2246,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
 *┃🎲الوصف :* ${anulay.description}
 *┃🌿 الرابط :* ${anulay.url}
 
-┃اسم البوت : 📶 𝐑𝐀𝐈𝐙𝐄𝐋_𝐆𝐄𝐎𝐑𝐉𝐄⃤ 📶 
+┃اسم البوت : 𝐔𝐂𝐇𝐈𝐇𝐀 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝐁𝐎𝐓⚔🩸
 
 ┗━━━━━━━━━❊`,
                     footer: botname,

@@ -1495,7 +1495,7 @@ break
                 m.reply(mess.success)
                 }
                 break
-            case 'tagall': case 'منشن': case 'اجتماع': case 'تاج': {
+            case 'tagall': case 'منشن': case 'ازعاج': case 'تاج': {
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
@@ -2246,7 +2246,7 @@ if (!text) return m.reply(`Example : ${prefix + command} Stay jb`)
 *┃🎲الوصف :* ${anulay.description}
 *┃🌿 الرابط :* ${anulay.url}
 
-┃اسم البوت : 𝐔𝐂𝐇𝐈𝐇𝐀 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝐁𝐎𝐓⚔🩸
+┃اسم البوت : 🖤⚔️𝐔𝐂𝐇𝐈𝐇𝐀 𝐁𝐎𝐓⚔️🖤
 
 ┗━━━━━━━━━❊`,
                     footer: botname,
@@ -5375,7 +5375,7 @@ case 'dare': case 'تويت':
     
        case 'بوت': case 'البوت':
     ElgazarBot.sendMessage(from, { react: { text: "" , key: m.key }})
-    reply(`*أوامر تنفذ يا قلبي لطلب الاوامر اكتب كلمه اوامر*ً`)
+    reply(`*الـبوت متصل يرجي عدم الازعاج*`)
     break
     
        case 'سلام': case 'السلام':
@@ -5395,7 +5395,7 @@ case 'dare': case 'تويت':
     
        case 'ون': case 'ونبيس':
     
-    reply(`*انمي خورافي انصحكم تشاهدوه*`)
+    reply(`*تصحيح لكلامك اسمه ون بيض*`)
     break
     
        case 'فيزا': case 'الفيزا':
@@ -7657,9 +7657,9 @@ teks = `• مرحبا ياروحي ⤌⤈
 يجب عليك الانظمام لهذه القناه وسماع الشروحات لتنصيب بوت وتس مثل هذا البوت
  
 حساب انستا المطور
-https://instagram.com/6tl_v?igshid=YmMyMTA2M2Y=
+https://www.instagram.com/invites/contact/?i=g13lcywriawd&utm_content=o6rd05p
 لينك شاتي 
-https://api.whatsapp.com/send?phone=+967770500831`
+https://api.whatsapp.com/send?phone=+201555279812`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
